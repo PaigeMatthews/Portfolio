@@ -13,5 +13,3 @@ Created using Python. A simple text editor that allows you to open files already
 ### Notification
 Made in python. Sends a reminder straight to my desktop to remind me to commit to my repo and make my daily logs for university.
 
-### Calendar GUI
-Made in python. To be added into the text editor. 
