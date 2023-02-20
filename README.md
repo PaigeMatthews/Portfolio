@@ -10,5 +10,8 @@ Made in Python. Using a read command to read and write out the questions and col
 ### Text Editor GUI
 Created using Python. A simple text editor that allows you to open files already in your computer and edit them or create a new file. All files are markdown as this is intended to be a place I can write notes as I develop it and I write all of my notes in markdown.
 
+### Notification
+Made in python. Sends a reminder straight to my desktop to remind me to commit to my repo and make my daily logs for university.
+
 ### Calendar GUI
 Made in python. To be added into the text editor. 
