@@ -1,0 +1,9 @@
+Which of the following is a suitable file format to use for a photo?,RTF,JPG,CSV,MPG,JPG
+Which malicious software replicates without a host file?,virus,trojan,worm,spam,worm
+Which of the following is data type used for a two state answer?,integer,string,boolean,real,boolean
+Which of the following is not a programming language?,JS,HTML,Python,SQL,HTML
+Which of the following returns a value?,procedure,paramater,global variable,function,function
+Who is given credit for creating the world wide web?,Hugo,Tim Berners-Lee,Dr Webb,Paige,Tim Berners-Lee
+Which type of bug does the phrase the is a bug originate from,moth,cockroach,spider,fly,moth
+Which of the following is not a programming paradigm,event driver, object orientated,procedural,effective,effective
+What happens if we divided a number by 0,nothing,execution error,calculation completes,syntax error,execution error
