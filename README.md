@@ -1,7 +1,7 @@
 # Portfolio
 My Current (2023) portfolio. This is constantly being added to, to showcase my most recent work.
 
-### Paws and Claws Pet Shop
+### Paws and Claws Pet E-commerce Shop
 Made in html, css and javascript. Originally a piece of work from my Foundation apprenticeship, we were tasked with choosing a subject that our employers gave us. We were to ask questions to our client and make a template for a website to the clients agreement.
 
 ### Quiz
